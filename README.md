@@ -24,9 +24,3 @@
 - ☁️ Cloud solutions (AWS, Azure)
 
 ### 💡 Core Skills
-```diff
-+ Python | Pandas | NumPy | SciPy
-+ Bioinformatics | Data Analysis
-+ AI/ML | Neural Networks
-# SQL | Linux | Git
-! STEM Education | Technical Training
