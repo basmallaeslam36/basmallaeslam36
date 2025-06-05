@@ -1,14 +1,14 @@
-<!-- Dark-themed header -->
-<h1 align="center" style="color: #61dafb;">🚀 Hi, I'm Basmalla Eslam!</h1>
-<h3 align="center" style="color: #9cdcfe;">Python Developer | AI x Bioinformatics | NASA Citizen Scientist</h3>
+<!-- Professional header with your name -->
+<h1 align="center">🚀 Hi, I'm Basmalla Eslam!</h1>
+<h3 align="center">Python Developer | AI x Bioinformatics | NASA Citizen Scientist</h3>
 
-<!-- Dark-themed coding GIF -->
+<!-- Clean coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="700" alt="Dark coding animation">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="Coding screen">
 </p>
 
-<!-- Mission statement with dark mode color -->
-> <span style="color: #c586c0">*"Building inclusive science through technology"*</span>
+<!-- Mission Statement -->
+> *"Building inclusive science through technology"*
 
 ---
 
@@ -24,12 +24,12 @@
 - ☁️ Cloud solutions (AWS, Azure)
 
 ### 💡 Core Skills
-<p style="color: #d4d4d4;">
-• <span style="color: #4ec9b0">Python | Pandas | NumPy | SciPy</span><br>
-• <span style="color: #c586c0">Bioinformatics | Data Analysis</span><br>
-• <span style="color: #dcdcaa">AI/ML | Neural Networks</span><br>
-• <span style="color: #9cdcfe">SQL | Linux | Git</span><br>
-• <span style="color: #d7ba7d">STEM Education | Technical Training</span>
+<p>
+• Python | Pandas | NumPy | SciPy<br>
+• Bioinformatics | Data Analysis<br>
+• AI/ML | Neural Networks<br>
+• SQL | Linux | Git<br>
+• STEM Education | Technical Training
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🧪 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?logo=ai&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF6F00?logo=ai&logoColor=white)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-2AA876?logo=dna&logoColor=white)
 ![NASA](https://img.shields.io/badge/NASA_Citizen_Scientist-0B3D91?logo=nasa&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Instructor-1BA0D7?logo=cisco&logoColor=white)
